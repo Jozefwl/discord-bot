@@ -1,4 +1,4 @@
-# How to install / run
+# How to install / run.
 
 run npm safe install (or npm install --ignore-scripts) in these directories:
 - blocky-qr/qr-backend
